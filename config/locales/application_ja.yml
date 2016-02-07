@@ -1,0 +1,12 @@
+ja:
+  errors:
+    format: "%{attribute}%{message}"
+    messages:
+      is_summer: は夏から始まる事
+
+  activerecord:
+    attributes:
+      book:
+        name: 名前
+        description: 要約
+        price: 価格
